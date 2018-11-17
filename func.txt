@@ -1,0 +1,8 @@
+        var Range = 10;
+        MyFunction : function(array)
+        {
+            var sum = 0;
+            for (var i = 0; i < Range; i++){
+                sum += i; 
+	    }
+        }
